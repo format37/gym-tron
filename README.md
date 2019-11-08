@@ -6,7 +6,7 @@ cd ~/.local/lib/python3.6/site-packages/gym/envs
 
 *- clone this repository*
 
-git clone https://github.com/format37/gym-lex.git
+git clone https://github.com/format37/gym-tron.git
 
 *- install this environment*
 
