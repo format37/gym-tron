@@ -1,7 +1,0 @@
-README.md
-setup.py
-gym_lex.egg-info/PKG-INFO
-gym_lex.egg-info/SOURCES.txt
-gym_lex.egg-info/dependency_links.txt
-gym_lex.egg-info/requires.txt
-gym_lex.egg-info/top_level.txt
